@@ -1,7 +1,7 @@
 # Author: Jake Trissel
 # Github Username: trisselj
 # Date: 06/26/2024
-# Description: Finds the average of numbers in groups of 5
+# Description: Converts from Celsius to Fahrenheit
 
 # Entering of temperature
 Celsius = input("Please enter the temperature in Celsius")
