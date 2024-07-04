@@ -9,4 +9,5 @@ Celsius = input("Please enter the temperature in Celsius")
 CelsiusFloat = float(Celsius)
 # Conversion
 FahrenheitFloat = (9/5) * CelsiusFloat + 32
+# Printing of answer
 print("The temperature you entered in Fahrenheit is " + str(FahrenheitFloat))
